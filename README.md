@@ -1,7 +1,7 @@
 # NeuralNet-Food-Classification
 
 ## About
-A classification project with neural networks using the Food101 dataset through tensorflow 
+A classification project with neural networks using the Food101 dataset through tensorflow. The goal of this project is to create a CNN to classify 101 classes of food images
 
 
 ## Food101 Dataset
