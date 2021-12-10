@@ -3,6 +3,7 @@
 ## About
 A classification project with neural networks using the Food101 dataset through tensorflow. The goal of this project is to create a CNN to classify 101 classes of food images
 
+The goal of this project is to beat the 77.4% top-1 accuracy achieved by the [DeepFood paper](https://colab.research.google.com/drive/1dT5rr4jeiuybtZ2zjr7yEcLnStfcWVzd#scrollTo=-e87t2kUqW7-)
 
 ## Food101 Dataset
 This is a commonly used dataset for machine-learning practice. 
